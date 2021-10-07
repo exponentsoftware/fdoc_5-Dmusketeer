@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "1. Use the countries API to fetch data about countries. (5 pt)",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
